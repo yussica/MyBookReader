@@ -1,0 +1,23 @@
+{
+  "name": "MyBookReader",
+  "version": "0.1.0",
+  "summary": "A BookReader for Novel and Comics.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yussica/MyBookReader",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "朱靥超": "331253025@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yussica/MyBookReader.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "https://twitter.com/Zhuyechao",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyBookReader/Classes/**/*"
+}

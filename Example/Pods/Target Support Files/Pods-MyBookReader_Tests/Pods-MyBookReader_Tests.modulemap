@@ -1,0 +1,6 @@
+framework module Pods_MyBookReader_Tests {
+  umbrella header "Pods-MyBookReader_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

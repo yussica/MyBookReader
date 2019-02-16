@@ -1,0 +1,6 @@
+framework module MyBookReader {
+  umbrella header "MyBookReader-umbrella.h"
+
+  export *
+  module * { export * }
+}
