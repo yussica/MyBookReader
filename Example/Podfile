@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MyBookReader_Example' do
+  pod 'MyBookReader', :path => '../'
+
+  target 'MyBookReader_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
